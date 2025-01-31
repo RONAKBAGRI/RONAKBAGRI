@@ -8,15 +8,15 @@ RONAKBAGRI <img align="right" src="https://api.visitorbadge.io/api/visitors?path
 
 [![Website](https://img.shields.io/badge/Website-ronakbagri.com-informational?style=flat-square&color=00ADB5&logo=about.me&logoColor=white)](https://ronakbagriportfolio.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-RonakBagri-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronakbagri/)
-[![Gmail](https://img.shields.io/badge/Gmail-RonakBagri-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:ronakbagri@example.com?subject=Hey!)
+[![Gmail](https://img.shields.io/badge/Gmail-RonakBagri-informational?style=flat-square&color=EA4335&logo=gmail&logoColor=white)](mailto:ronakbagri9@gmail.com?subject=Hey!)
 
 <br>
 
 # Hi there <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px">
 
-My name is Ronak Bagri, a **Computer Science and Engineering** undergraduate student at **SRM University, Delhi-NCR Campus**.
+My name is **Ronak Bagri**, an undergraduate student at **Indian Institute of Technology Jammu** (IIT Jammu), pursuing a **B.Tech in Mathematics and Computing**.
 
-💻 My interests lie in **Full Stack Web Development**, **AI & Machine Learning**, and **problem-solving** in **Data Structures & Algorithms**.
+💻 My interests lie in **Full Stack Web Development**, **AI & Machine Learning**, and **Problem-solving** in **Data Structures & Algorithms**.
 
 🎶 Outside my academic and professional pursuits, I am passionate about **cricket**, **movies**, and **trying new things**.
 
