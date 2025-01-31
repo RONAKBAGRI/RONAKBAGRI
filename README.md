@@ -14,9 +14,9 @@ RONAKBAGRI <img align="right" src="https://api.visitorbadge.io/api/visitors?path
 
 # Hi there <img src="https://raw.githubusercontent.com/umenzi/umenzi/main/wave.gif" width="30px">
 
-My name is **Ronak Bagri**, an undergraduate student at **Indian Institute of Technology Jammu** (IIT Jammu), pursuing a **B.Tech in Mathematics and Computing**.
+My name is **Ronak Bagri**, an undergraduate student at **Indian Institute of Technology Jammu** (IIT Jammu), pursuing **B.Tech in Mathematics and Computing**.
 
-💻 My interests lie in **Full Stack Web Development**, **AI & Machine Learning**, and **Problem-solving** in **Data Structures & Algorithms**.
+💻 My interests lie in **Full Stack Web Development(MERN STACK)**, **AI & Machine Learning**, and **Problem-solving** in **Data Structures & Algorithms**.
 
 🎶 Outside my academic and professional pursuits, I am passionate about **cricket**, **movies**, and **trying new things**.
 
