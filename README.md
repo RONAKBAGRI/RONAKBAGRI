@@ -56,7 +56,6 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RONAKBAGRI&theme=dark" alt="Ronak's GitHub Streak" />
 </p>
-
 </div>
 
 <div align="center">
