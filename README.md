@@ -53,16 +53,7 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Detective%20Medium%20Skin%20Tone.png" alt="Man Detective Medium Skin Tone" width="35" height="40" /> GitHub Stats </h1>
 
-<p>&nbsp;
-  <a href="https://github.com/RONAKBAGRI#gh-dark-mode-only" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RONAKBAGRI&count_private=true&show_icons=true&theme=nightowl#gh-dark-mode-only" alt="Ronak's GitHub Stats (Dark Mode)" />
-  </a>
-  <a href="https://github.com/RONAKBAGRI#gh-light-mode-only" target="_blank">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=RONAKBAGRI&count_private=true&show_icons=true&theme=vue#gh-light-mode-only" alt="Ronak's GitHub Stats (Light Mode)" />
-  </a>
-</p>
-<br>
-<br>
+
 
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RONAKBAGRI&theme=github_dark" />
