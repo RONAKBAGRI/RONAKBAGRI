@@ -52,11 +52,6 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Detective%20Medium%20Skin%20Tone.png" alt="Man Detective Medium Skin Tone" width="35" height="40" /> GitHub Stats </h1>
-<div align="center" width="50%">
-  <p>
-    <img align="center" src="https://streak-stats.demolab.com/?user=RONAKBAGRI&theme=dark" alt="Ronak's GitHub Streak" />
-  </p>
-</div>
 
 
 
