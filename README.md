@@ -42,7 +42,7 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
 
 <tr>
   <td><strong>Frontend Development</strong></td>
-  <td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark"></td>
+  <td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwindCSS&theme=dark"></td>
 </tr>
 
 <tr>
