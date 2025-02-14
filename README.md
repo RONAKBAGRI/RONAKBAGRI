@@ -32,28 +32,30 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
 <h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="38"> Languages and Tools</h1>
 
 <table align="center">
-	<tr>
-	<td><strong>Programming Languages</strong></td>
-	<td><img height=40 src="https://skillicons.dev/icons?i=cpp&theme=dark"></td>
+<tr>
+  <td><strong>Programming Languages</strong></td>
+  <td><img height=40 src="https://skillicons.dev/icons?i=cpp,python&theme=dark"></td>
 </tr>
 
 <tr>
-	<td><strong>Frontend Development</strong></td>
-	<td><img height=40 src="https://skillicons.dev/icons?i=html,css,js&theme=dark" ></td>
+  <td><strong>Frontend Development</strong></td>
+  <td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,react,nextjs&theme=dark"></td>
 </tr>
 
 <tr>
-	<td><strong>Developer Tools</strong></td>
-	<td><img height=40 src="https://skillicons.dev/icons?i=github,vscode&theme=dark"></td>
+  <td><strong>Backend & Database</strong></td>
+  <td><img height=40 src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb&theme=dark"></td>
 </tr>
 
+<tr>
+  <td><strong>Developer Tools</strong></td>
+  <td><img height=40 src="https://skillicons.dev/icons?i=github,vscode,postman&theme=dark"></td>
+</tr>
 </table>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Detective%20Medium%20Skin%20Tone.png" alt="Man Detective Medium Skin Tone" width="35" height="40" /> GitHub Stats </h1>
-
-
 
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RONAKBAGRI&theme=github_dark" />
