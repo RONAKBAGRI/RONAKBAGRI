@@ -12,7 +12,7 @@
 
 Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on the following platforms: <br> <br>
 <div id="badges" align = "center">
-   <a href="https://leetcode.com/u/RONAK_BAGRI/">
+   <a href="[https://leetcode.com/u/RONAK_BAGRI/](https://github.com/RONAKBAGRI)">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
  <a href="https://www.linkedin.com/in/ronakbagri/">
