@@ -70,8 +70,10 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
 <br>
 <div align="center">
 
-#### 🔍 Profile views :
-<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2RONAKBAGRI&countColor=%23263759&style=default" alt="visitor_badge">
+<div align="right" style="display: flex; align-items: center;">
+  <h4>🔍 Profile views :</h4>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FRONAKBAGRI&countColor=%23263759&style=default" alt="visitor badge" />
+</div>
 
 <div align="center">
     <h1>
