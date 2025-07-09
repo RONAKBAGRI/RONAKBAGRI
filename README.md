@@ -35,26 +35,48 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
 <h1><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30px" height="38"> Languages and Tools</h1>
 
 <table align="center">
-<tr>
-  <td><strong>Programming Languages</strong></td>
-  <td><img height=40 src="https://skillicons.dev/icons?i=cpp,python&theme=dark"></td>
-</tr>
-
-<tr>
-  <td><strong>Frontend Development</strong></td>
-  <td><img height=40 src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind&theme=dark"></td>
-</tr>
-
-<tr>
-  <td><strong>Backend & Database</strong></td>
-  <td><img height=40 src="https://skillicons.dev/icons?i=nodejs,express,flask,mongodb&theme=dark"></td>
-</tr>
-
-<tr>
-  <td><strong>Developer Tools</strong></td>
-  <td><img height=40 src="https://skillicons.dev/icons?i=github,vscode,postman&theme=dark"></td>
-</tr>
+  <tr>
+    <td><strong>Programming Languages</strong></td>
+    <td>
+      <img height="40" src="https://skillicons.dev/icons?i=c,cpp,python,javascript&theme=dark">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Frameworks & Libraries</strong></td>
+    <td>
+      <img height="40" src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind&theme=dark">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib">
+      <img height="40" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" style="background-color: white; border-radius: 6px;">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Databases & APIs</strong></td>
+    <td>
+      <img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark">
+      <img height="40" src="https://img.shields.io/badge/REST%20API-005571?style=flat&logo=fastapi&logoColor=white" alt="REST API">
+      <img height="40" src="https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens&logoColor=white" alt="JWT">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Machine Learning</strong></td>
+    <td>
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow">
+      <img height="40" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" alt="scikit-learn">
+    </td>
+  </tr>
+  <tr>
+    <td><strong>Tools & Platforms</strong></td>
+    <td>
+      <img height="40" src="https://skillicons.dev/icons?i=git,vscode,postman&theme=dark">
+      <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter">
+      <img height="40" src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white" alt="Google Colab">
+    </td>
+  </tr>
 </table>
+
+
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
