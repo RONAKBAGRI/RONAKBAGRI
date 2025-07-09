@@ -71,7 +71,7 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
 <div align="center">
 
 #### 🔍 Profile views :
-![Visitor Count](https://profile-counter.glitch.me/{RONAKBAGRI}/count.svg)
+<img align="right" src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2RONAKBAGRI&countColor=%23263759&style=default" alt="visitor_badge">
 
 <div align="center">
     <h1>
