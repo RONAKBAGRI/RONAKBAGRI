@@ -62,10 +62,8 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
 
 <div align="center">
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RONAKBAGRI&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RONAKBAGRI&theme=github_dark"  />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RONAKBAGRI&theme=github_dark"  />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RONAKBAGRI&theme=github_dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RONAKBAGRI&theme=github_dark" />
 </div>
 <br>
 <div align="center">
