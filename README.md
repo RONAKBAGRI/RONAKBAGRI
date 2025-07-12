@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/Jay-Govind/Jay-Govind/refs/heads/main/new-Converted.gif" width="400"/>       
 </div>      
-  
 <div align="center">    
     <h1> 
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=500&lines=Hey...+I'm+Ronak+Bagri;Welcome+to+my+Github+profile!;Aspiring+DSA+and+Web+Dev+Enthusiast!;Exploring+new+tech+stacks!;Let's+code+together!" alt="Typing SVG"/> 
