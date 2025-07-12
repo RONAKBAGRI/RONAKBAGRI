@@ -83,10 +83,18 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
 <h1 align="left"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Detective%20Medium%20Skin%20Tone.png" alt="Man Detective Medium Skin Tone" width="35" height="40" /> GitHub Stats </h1>
 
 <div align="center">
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=RONAKBAGRI&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+  </a>
+  
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RONAKBAGRI&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RONAKBAGRI&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RONAKBAGRI&theme=github_dark"/>
+  <div style="display: flex; justify-content: center;">
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RONAKBAGRI&theme=github_dark" />
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RONAKBAGRI&theme=github_dark"/>
+  </div>
 </div>
+
 <br>
 <div align="center">
 
@@ -100,6 +108,8 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=27&duration=3200&color=3E92CC&center=true&vCenter=true&width=650&lines=Data+is+everything..;Code+with+passion+,+create+with+purpose.;Commit+to+your+dreams+,+push+to+GitHub.;Craft+your+dreams+with+code.;Dream+big+,+code+effectively..." alt="Typing SVG"/>
     </h1>
 </div>
+
+
 
 
 
