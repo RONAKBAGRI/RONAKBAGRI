@@ -100,3 +100,10 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
         <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=27&duration=3200&color=3E92CC&center=true&vCenter=true&width=650&lines=Data+is+everything..;Code+with+passion+,+create+with+purpose.;Commit+to+your+dreams+,+push+to+GitHub.;Craft+your+dreams+with+code.;Dream+big+,+code+effectively..." alt="Typing SVG"/>
     </h1>
 </div>
+
+## 🚀 My GitHub Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=RONAKBAGRI&theme=default&cache_seconds=86400)](https://git.io/streak-stats)
+
+
+
