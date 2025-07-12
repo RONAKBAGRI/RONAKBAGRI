@@ -101,9 +101,7 @@ Hello, fellow coder! 🖐️ Welcome to my GitHub profile! Reach out to me on th
     </h1>
 </div>
 
-## 🚀 My GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RONAKBAGRI&theme=default&cache_seconds=86400)](https://git.io/streak-stats)
 
 
 
