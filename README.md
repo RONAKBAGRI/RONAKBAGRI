@@ -1,10 +1,12 @@
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/Jay-Govind/Jay-Govind/refs/heads/main/new-Converted.gif" width="400"/>       
+  <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="400"/>
+
+
+  
 </div>      
 <div align="center">    
     <h1> 
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=500&lines=Hey...+I'm+Ronak+Bagri;Welcome+to+my+Github+profile!;Aspiring+DSA+and+Web+Dev+Enthusiast!;Exploring+new+tech+stacks!;Let's+code+together!" alt="Typing SVG"/> 
-    </h1>  
+       <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3200&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Hey...+I'm+Ronak+Bagri!;Welcome+to+my+GitHub+profile+%F0%9F%91%8B;3rd+Year+B.Tech+MnC+Student+at+IIT+Jammu;Full+Stack+MERN+%26+AI%2FML+Engineer;Exploring+the+world+of+tech;Let's+build+and+connect+%F0%9F%9A%80" alt="Typing SVG"/>
 </div>
 
 <h2 > <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Medium-Light%20Skin%20Tone.png" alt="Folded Hands Medium-Light Skin Tone" width="35" height="35" /> Get in touch :</h2>         
